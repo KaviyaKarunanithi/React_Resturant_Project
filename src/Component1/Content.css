@@ -1,0 +1,78 @@
+.main{
+    width: 80%;
+    height: 700px;
+    background-color: #f9fafd;
+    margin-left: 125px;
+    display: flex;
+}
+span{
+    color: red;
+}
+h5{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: cadetblue;
+    font-size: 17px;
+}
+.first img{
+    width: 20%;
+    float: right;
+    margin-left: 900px;
+}
+.first{
+    width: 80%;
+    height: 100px;
+    margin-left: 90px;
+    padding-top: 40px;
+}
+.first1{
+    width: 80%;
+    height: 100px;
+    margin-left: 90px;
+    padding-top: 120px;
+}
+.first2{
+    width: 80%;
+    height: 100px;
+    margin-left: 90px;
+    padding-top: 200px;
+}
+.second{
+    width: 80%;
+    height: 100px;
+    margin-left: 90px;
+    padding-top: 40px;
+}
+.second1{
+    width: 80%;
+    height: 100px;
+    margin-left: 90px;
+    padding-top: 120px;
+}
+.second2{
+    width: 80%;
+    height: 100px;
+    margin-left: 90px;
+    padding-top: 200px;
+}
+
+.third{
+    width: 80%;
+    height: 100px;
+    margin-left: 90px;
+    padding-top: 40px;
+}
+.third1{
+    width: 80%;
+    height: 100px;
+    margin-left: 90px;
+    padding-top: 120px;
+}
+.third2{
+    width: 80%;
+    height: 100px;
+    margin-left: 90px;
+    padding-top: 200px;
+}

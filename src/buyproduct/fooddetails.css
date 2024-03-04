@@ -1,0 +1,49 @@
+.felx{
+  display: flex;
+}
+.container {
+    padding: 20px;
+  }
+  
+  .food-image {
+    width: 100%;
+    height: auto;
+  }
+  
+  .original-price {
+    text-decoration: line-through;
+  }
+  
+  .offer-button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    margin-right: 10px;
+  }
+  
+  .add-button {
+    background-color: orange;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+  }
+  
+  .details {
+    margin-top: 20px;
+  }
+  
+  .ingredients {
+    margin-top: 20px;
+  }
+  
+  .nutrition {
+    margin-top: 20px;
+  }
+  
+  .icon {
+    width: 50px;
+    height: 50px;
+    background-color: #f1f1f1; /* Replace with your chicken icon */
+  }
+  

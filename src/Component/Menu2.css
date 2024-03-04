@@ -1,0 +1,111 @@
+.ya{
+    margin-left: 40px;
+    margin-top: 40px;
+}
+.f2{
+    width: 25%;
+    height: 400px;
+    margin-left: 100px;
+    background-color: white;
+    
+}
+
+
+.food{
+    margin-top: 100px;
+    display: flex;
+}
+button{
+    border: none;
+    background-color: darkgreen;
+    border-radius: 10px;
+    color: white;
+}
+.f2:hover{
+    border: 1px solid whitesmoke;
+}
+.f3:hover{
+    border: 1px solid whitesmoke;
+}
+.f1:hover{
+    border: 1px solid whitesmoke;
+}
+.f4:hover{
+    border: 1px solid whitesmoke;
+}
+.f5:hover{
+    border: 1px solid whitesmoke;
+}
+.f6:hover{
+    border: 1px solid whitesmoke;
+}
+.f2 img{
+    width: 94%;
+    height: 300px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.f1 img{
+    width: 94%;
+    height: 300px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.f1{
+    width: 25%;
+    height: 400px;
+    margin-left: 50px;
+    background-color: white;
+}
+.f3 img{
+    width: 94%;
+    height: 300px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.f3{
+    width: 25%;
+    height: 400px;
+    margin-left: 50px;
+    background-color: white;
+}
+.sub-food{
+    display: flex;
+    margin-top: 50px;
+}
+.f4 img{
+    width: 94%;
+    height: 300px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.f4{
+    width: 25%;
+    height: 400px;
+    margin-left: 100px;
+    background-color: white;
+}
+.f5 img{
+    width: 94%;
+    height: 300px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.f5{
+    width: 25%;
+    height: 400px;
+    margin-left: 50px;
+    background-color: white;
+}
+.f6 img{
+    width: 94%;
+    height: 300px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.f6{
+    width: 25%;
+    height: 400px;
+    margin-left: 50px;
+    background-color: white;
+}

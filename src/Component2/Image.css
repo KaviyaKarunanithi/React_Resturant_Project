@@ -1,0 +1,78 @@
+
+.muruga{
+    width: 100%;
+    height: 210px;
+    background-color: #151E3D;
+    margin-top: 60px;
+    display: flex;
+
+}
+.img0 img{
+    width: 60%;
+    height: 200px;
+    margin-left: 300px;
+    bottom: 0;
+   
+}
+
+.img0 h1{
+	margin-left: 170px;
+    color: white;
+}
+.img0 h6{
+	margin-left: 170px;
+    color: darkgoldenrod;
+    margin-top: 50px;
+}
+.img0 button{
+    margin-left: 170px;
+    border: none;
+    background-color: darkgoldenrod;
+    color: darkblue;
+    border-radius: 10px;
+    width: 25%;
+    margin-top: 10px;
+}
+/* catering */
+.ct0 h4{
+    text-align: center;
+    margin-top: 130px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.ct0 h1{
+    text-align: center;
+}
+.ct0 p{
+    text-align: center;
+    /* text-align: end; */
+    margin-top: 50px;
+}
+.ct1{
+    margin-top: 60px;
+    width: 50%;
+    height: 250px;
+    background-color: whitesmoke;
+    margin-left: 350px;
+}
+/* .ct1{
+    display: flex;
+} */
+.ct1 img{
+    width: 51%;
+    margin-left: 10px;
+    height: 110px;
+}
+.ct1 h4{
+    margin-left: 390px;
+    padding-top: 7px;
+   font-family: initial;
+}
+.ct1 button{
+    margin-left: 50px;
+    background-color: darkgoldenrod;
+    color: darkblue;
+    margin-right: 20px;
+    border: none;
+    width: 20%;
+    border-radius: 10px;
+}
